@@ -78,3 +78,8 @@ The `/api/users/current` endpoint requires a valid token. Use the `validateToken
 Jay Savaliya - work.jaysavaliya@gmail.com
 
 Project Link: [https://contact-frontend-three.vercel.app/](https://contact-frontend-three.vercel.app/)
+
+login by using this creditatial
+
+email: admin@gmail.com
+password: 123456789
